@@ -1,4 +1,4 @@
-# 📌 Advanced Golang Interview Questions (1-40)
+# 📌 Advanced Golang Interview Questions (1-50)
 
 This repository contains a collection of **advanced Golang interview questions** organized into categories. Each topic has its own `README.md` file with detailed explanations and real-life examples.
 
@@ -81,7 +81,7 @@ Covers various advanced Go topics and scenario-based challenges.
 8. How do you cross-compile a Go application?
 9. What is the Go Playground?
 10. How do you integrate Go with databases?
-11. Scenario-based design and coding challenges (141-150).
+11. Scenario-based design and coding challenges (41-50).
 
 ---
 
